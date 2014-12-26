@@ -1,2 +1,1 @@
-pixellurgy.github.io
-====================
+[Pixellurgy Interactive](http://pixellurgy.com)
